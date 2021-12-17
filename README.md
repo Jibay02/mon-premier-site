@@ -1,3 +1,3 @@
 # mon-premier-site
 
-cesi est un site u=internet pour faire des expériences
+ceci est un site internet pour faire des expériences (sans fautes là)
